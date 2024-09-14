@@ -1,0 +1,37 @@
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.icon-button {
+  background-color: #dc3545;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.icon-button:hover {
+  background-color: #c82333;
+}
+body {
+  background: gray;
+  margin-top: 50px;
+}
+
+label {
+  font-weight: bold;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+}
+.btn-primary{
+  background-color: black;
+  text-decoration: none;
+  border: none;
+}
+.btn-primary:hover{
+  background-color: rgb(116, 108, 108);
+}
